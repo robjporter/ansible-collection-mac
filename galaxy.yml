@@ -1,11 +1,11 @@
 ---
-namespace: geerlingguy
+namespace: robjporter
 name: mac
 version: "1.2.0"
 readme: README.md
 
 authors:
-  - geerlingguy
+  - robjporter
 
 description: Collection of macOS automation tools for Ansible.
 
